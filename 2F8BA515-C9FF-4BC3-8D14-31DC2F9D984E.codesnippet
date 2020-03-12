@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>uinit</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let tableView = UITableView(frame: &lt;#T##CGRect#&gt;, style: &lt;#T##UITableView.Style#&gt;)
+        tableView.register(&lt;#T##cellClass: AnyClass?##AnyClass?#&gt;, forCellReuseIdentifier: &lt;#T##String#&gt;)</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2F8BA515-C9FF-4BC3-8D14-31DC2F9D984E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>定义UITableView</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

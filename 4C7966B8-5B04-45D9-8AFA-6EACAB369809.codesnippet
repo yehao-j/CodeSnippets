@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rxsectionmodel</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>struct &lt;#class#&gt; {
+    var header: &lt;#type#&gt;
+    var items: [&lt;#model class#&gt;]
+    
+    init(header: String, items: [&lt;#model class#&gt;]) {
+        self.header = header
+        self.items = items
+    }
+}
+
+extension &lt;#class#&gt;: SectionModelType {
+    init(original: &lt;#class#&gt;, items: [&lt;#model class#&gt;]) {
+        self = original
+        self.items = items
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4C7966B8-5B04-45D9-8AFA-6EACAB369809</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RxDataSources 实现SectionModelType</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

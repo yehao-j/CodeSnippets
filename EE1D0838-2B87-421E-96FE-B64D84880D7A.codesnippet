@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rxtablesource</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>lazy var  dataSource = {
+        return RxTableViewSectionedReloadDataSource&lt;&lt;#section model class#&gt;&gt;(configureCell: { (dataSource, tableView, indexPath, model) -&gt; UITableViewCell in
+            let cell: &lt;#class#&gt; = tableView.dequeueReusableCell(withIdentifier: &lt;#T##String#&gt;, for: indexPath) as! &lt;#class#&gt;
+            return cell
+        }, titleForHeaderInSection: { (dataSource, section) -&gt; String? in
+            let header: &lt;#class#&gt; = tableView.dequeueReusableHeaderFooterView(withIdentifier: &lt;#T##String#&gt;) as! &lt;#class#&gt;
+            return header
+        }, titleForFooterInSection: { (dataSource, section) -&gt; String? in
+            let footer: &lt;#class#&gt; = tableView.dequeueReusableHeaderFooterView(withIdentifier: &lt;#T##String#&gt;) as! &lt;#class#&gt;
+            return footer
+        })
+    }()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EE1D0838-2B87-421E-96FE-B64D84880D7A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RxDataSources UITableView 定义数据源并且包含header或者footer</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

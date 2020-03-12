@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>uinit</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let gradientLayer = CAGradientLayer()
+        gradientLayer.colors = [&lt;#from color#&gt;.cgColor, &lt;#to color#&gt;.cgColor]
+        gradientLayer.startPoint = &lt;#start point#&gt;
+        gradientLayer.endPoint = &lt;#end point#&gt;
+        gradientLayer.locations = [&lt;#from location#&gt;, &lt;#to location#&gt;]</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3F05A79A-5EE9-41B3-9219-6276CE22B88F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>定义渐变图层</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

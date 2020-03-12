@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rxtablesource</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>lazy var dataSource = {
+    return RxTableViewSectionedReloadDataSource&lt;&lt;#section model class#&gt;&gt;(configureCell: { (dataSource, tableView, indexPath, model) -&gt; UITableViewCell in
+        let cell: &lt;#class#&gt; = tableView.dequeueReusableCell(withIdentifier: &lt;#T##String#&gt;, for: indexPath) as! &lt;#class#&gt;
+        return cell
+        })
+    }()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DB07E1A1-03A9-40E4-901E-B4599782D17D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RxDataSources UITableView 定义数据源</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

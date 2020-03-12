@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rxcollectionsource</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>lazy var dataSource = {
+        return RxCollectionViewSectionedReloadDataSource&lt;&lt;#section model class#&gt;&gt;(configureCell: { (dataSource, collectionView, indexPath, model) -&gt; UICollectionViewCell in
+            let cell: &lt;#class#&gt; = collectionView.dequeueReusableCell(withReuseIdentifier: &lt;#T##String#&gt;, for: &lt;#T##IndexPath#&gt;) as! &lt;#class#&gt;
+            return cell
+        }, configureSupplementaryView: { (dataSource, collectionView, kind, indexPath) -&gt; UICollectionReusableView in
+            if kind == UICollectionView.elementKindSectionHeader {
+                let header: &lt;#class#&gt; = collectionView.dequeueReusableSupplementaryView(ofKind: kind, withReuseIdentifier: &lt;#T##String#&gt;, for: &lt;#T##IndexPath#&gt;) as! &lt;#class#&gt;
+                return header
+            } else {
+                let footer: &lt;#class#&gt; = collectionView.dequeueReusableSupplementaryView(ofKind: kind, withReuseIdentifier: &lt;#T##String#&gt;, for: &lt;#T##IndexPath#&gt;) as! &lt;#class#&gt;
+                return footer
+            }
+        })
+    }()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CE8BDAC6-97A9-4216-AA65-3B143221F0F6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RxDataSources UICollectionView 定义数据源并且包含header或者footer</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
