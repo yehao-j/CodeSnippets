@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>flazy</string>
+	<string>fileprivate🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -17,6 +17,8 @@
 	<string>90667F55-EF63-46DC-A71A-49EB56ED15C9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>定义fileprivate的lazy</string>
 	<key>IDECodeSnippetUserSnippet</key>

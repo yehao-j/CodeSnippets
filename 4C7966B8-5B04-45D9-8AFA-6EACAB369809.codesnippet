@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>rxsectionmodel</string>
+	<string>rxsectionmodel🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -29,6 +29,8 @@ extension &lt;#class#&gt;: SectionModelType {
 	<string>4C7966B8-5B04-45D9-8AFA-6EACAB369809</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>RxDataSources 实现SectionModelType</string>
 	<key>IDECodeSnippetUserSnippet</key>

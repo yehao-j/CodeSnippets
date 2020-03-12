@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>rxvar</string>
+	<string>addTarget🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>var &lt;#property#&gt;: Binder&lt;&lt;#type#&gt;&gt; {
-    return Binder(self.base) { &lt;#base#&gt;, &lt;#value#&gt; in
-        &lt;#code#&gt;
-    }
-}</string>
+	<string>addTarget(&lt;#T##target: Any?##Any?#&gt;, action: #selector(&lt;#action#&gt;), for: .touchUpInside)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>05C2096E-82BE-4594-9588-77D5C2C8D468</string>
+	<string>4FBC1823-491F-499B-B598-B3871FBC304A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>RxSwift Reactive的扩展写法并且定义属性</string>
+	<string>调用UIButton的addTarget方法</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

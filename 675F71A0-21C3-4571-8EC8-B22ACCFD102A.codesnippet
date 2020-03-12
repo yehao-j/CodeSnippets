@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pidentifier</string>
+	<string>Notification🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fileprivate let identifier = &lt;#string#&gt;</string>
+	<string>Notification.Name.&lt;#value#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5F585813-D276-4450-98EC-82D4C40FB4BE</string>
+	<string>675F71A0-21C3-4571-8EC8-B22ACCFD102A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>定义Cell的标记</string>
+	<string>Notification Name</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

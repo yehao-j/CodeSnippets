@@ -3,25 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>static🌟🍉🥒</string>
+	<string>UserDefaults🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static let share = &lt;#class#&gt;()
-    private init() {}</string>
+	<string>UserDefaults.standard.set(&lt;#value#&gt;, forKey: &lt;#key#&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>37AC6204-BE77-485B-85C0-FD826CAB1FC4</string>
+	<string>179253DB-BF26-4727-8EE4-4C0B2F01ADD9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>单例</string>
+	<string>UserDefaults 设值</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

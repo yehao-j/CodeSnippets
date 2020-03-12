@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>rxadddelegate</string>
+	<string>rxdelegate🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -15,6 +15,8 @@
 	<string>5AEE8F61-88A0-49FF-99B9-0A825ED73314</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>RxSwift UIScrollView添加代理</string>
 	<key>IDECodeSnippetUserSnippet</key>

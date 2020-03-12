@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>rxcollectionsource</string>
+	<string>rxcollection🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -27,6 +27,8 @@
 	<string>CE8BDAC6-97A9-4216-AA65-3B143221F0F6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>RxDataSources UICollectionView 定义数据源并且包含header或者footer</string>
 	<key>IDECodeSnippetUserSnippet</key>

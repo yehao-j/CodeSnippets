@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>frx</string>
+	<string>objc🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>func rx() {
-        &lt;#code#&gt;
+	<string>@objc fileprivate func &lt;#xxx#&gt;Action() {
+        
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>26EE253B-41EF-4FF5-A370-CAAC2088173C</string>
+	<string>4128A96D-4127-42EE-811C-FF2754ED9C79</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>实现rx方法</string>
+	<string>创建@objc方法</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

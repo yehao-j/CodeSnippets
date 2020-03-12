@@ -3,22 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>static🌟🍉🥒</string>
+	<string>navigationController🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static let share = &lt;#class#&gt;()
-    private init() {}</string>
+	<string>navigationController?.popViewController(animated: &lt;#T##Bool#&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>37AC6204-BE77-485B-85C0-FD826CAB1FC4</string>
+	<string>67A7FB6F-8DC2-40F8-A307-08BB6DBABD24</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>单例</string>
+	<string>调用navigationController的pop方法</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

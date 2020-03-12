@@ -3,22 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>static🌟🍉🥒</string>
+	<string>UITapGestureRecognizer🌟🍉🥒</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static let share = &lt;#class#&gt;()
-    private init() {}</string>
+	<string>UITapGestureRecognizer(target: &lt;#T##Any?#&gt;, action: #selector(&lt;#action#&gt;))</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>37AC6204-BE77-485B-85C0-FD826CAB1FC4</string>
+	<string>BBE8DF98-0E59-4903-A170-267CFA39360D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>单例</string>
+	<string>创建UIGestureRecognizer</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
