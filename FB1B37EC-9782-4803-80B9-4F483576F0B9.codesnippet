@@ -9,18 +9,18 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("🌷🌷🌷🌷🌷🌷🌷🌷🌷-\(#file)-\(#function)-\(#line)- \(&lt;#code#&gt;))")</string>
+	<string>print("--------- \(&lt;#code#&gt;)")</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>23D36F6F-71BB-4BA2-9C4B-E8AD0E7D1724</string>
+	<string>FB1B37EC-9782-4803-80B9-4F483576F0B9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>1、打印 file function line</string>
+	<string>2、打印</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

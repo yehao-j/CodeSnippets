@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>print</string>
+	<string>source</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("🌷🌷🌷🌷🌷🌷🌷🌷🌷-\(#file)-\(#function)-\(#line)- \(&lt;#code#&gt;))")</string>
+	<string>source 'https://github.com/CocoaPods/Specs'</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>23D36F6F-71BB-4BA2-9C4B-E8AD0E7D1724</string>
+	<string>BE4F37C3-95B2-412E-9C65-36E25BDFB8C4</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Ruby</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>1、打印 file function line</string>
+	<string>Cocoapods 添加source</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
