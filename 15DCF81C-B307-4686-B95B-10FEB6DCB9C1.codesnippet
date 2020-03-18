@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>objc🌟🍉🥒</string>
+	<string>rxtypealias</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@objc fileprivate func &lt;#action#&gt;() {
-        
-    }</string>
+	<string>typealias &lt;#xxx#&gt;Section = SectionModel&lt;String, &lt;#model#&gt;&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4128A96D-4127-42EE-811C-FF2754ED9C79</string>
+	<string>15DCF81C-B307-4686-B95B-10FEB6DCB9C1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>创建@objc方法</string>
+	<string>RxDataSource 定义section</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

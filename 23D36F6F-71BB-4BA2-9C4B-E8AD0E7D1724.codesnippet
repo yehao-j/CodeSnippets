@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("🌷🌷🌷🌷🌷🌷🌷🌷🌷-\(#file)-\(#function)-\(#line)- \(&lt;#code#&gt;))")</string>
+	<string>print("🌟🍉🥒🌦🍒🌽🍓🥝-\(#file)-\(#function)-\(#line)- \(&lt;#code#&gt;)")</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>23D36F6F-71BB-4BA2-9C4B-E8AD0E7D1724</string>
 	<key>IDECodeSnippetLanguage</key>
