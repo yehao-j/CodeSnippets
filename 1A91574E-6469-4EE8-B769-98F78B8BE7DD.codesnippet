@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ws🌟🍉🥒</string>
+	<string>xws</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[weak self] in</string>
+	<string>[weak self]</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A91574E-6469-4EE8-B769-98F78B8BE7DD</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Weak Self</string>
+	<string>🌟 Weak Self</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

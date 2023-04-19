@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>inject</string>
+	<string>xif</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#if DEBUG
-        Bundle(path: "/Applications/InjectionIII.app/Contents/Resources/iOSInjection10.bundle")?.load()
-        #endif</string>
+	<string>if (&lt;#code#&gt;) {
+        
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>00AF78C2-89E7-4B52-BCB9-489043B905C2</string>
+	<string>64132A7B-C909-46E9-A30B-A3657E26AB15</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Inject 添加注入条件</string>
+	<string>🌟 if</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

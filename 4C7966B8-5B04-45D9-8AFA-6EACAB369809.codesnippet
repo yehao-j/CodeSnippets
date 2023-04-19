@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>rxsectionmodel🌟🍉🥒</string>
+	<string>xrxsectionmodel</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -32,7 +32,7 @@ extension &lt;#class#&gt;: SectionModelType {
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>RxDataSources 实现SectionModelType</string>
+	<string>🌟 RxDataSources 实现SectionModelType</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

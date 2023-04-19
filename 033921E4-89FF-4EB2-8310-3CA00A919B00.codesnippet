@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>print🌟🍉🥒</string>
+	<string>xpro</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("🌟🍉🥒🌦🍒🌽🍓🥝-\(#file)-\(#function)-\(#line)- \(&lt;#code#&gt;)")</string>
+	<string>@property (nonatomic, strong) </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>23D36F6F-71BB-4BA2-9C4B-E8AD0E7D1724</string>
+	<string>033921E4-89FF-4EB2-8310-3CA00A919B00</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>1、打印 file function line</string>
+	<string>🌟 property strong</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
