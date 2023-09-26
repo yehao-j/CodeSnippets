@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xif</string>
+	<string>xnslog</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if (&lt;#code#&gt;) {
-        
-    }</string>
+	<string>NSLog(@"666--------- %&lt;#code#&gt;", &lt;#code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>64132A7B-C909-46E9-A30B-A3657E26AB15</string>
+	<string>CFF1A8E9-EE92-4B78-841B-A644D77F033A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>🌟 if</string>
+	<string>🌟打印</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
