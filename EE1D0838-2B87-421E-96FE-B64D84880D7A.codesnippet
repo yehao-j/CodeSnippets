@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>lazy var  dataSource = {
+	<string>lazy var dataSource = {
         return RxTableViewSectionedReloadDataSource&lt;&lt;#section model class#&gt;&gt;(configureCell: { (dataSource, tableView, indexPath, model) -&gt; UITableViewCell in
             let cell: &lt;#class#&gt; = tableView.dequeueReusableCell(withIdentifier: &lt;#T##String#&gt;, for: indexPath) as! &lt;#class#&gt;
             return cell

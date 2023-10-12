@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@objc fileprivate func &lt;#action#&gt;() {
+	<string>@objc private func &lt;#action#&gt;() {
         
     }</string>
 	<key>IDECodeSnippetIdentifier</key>

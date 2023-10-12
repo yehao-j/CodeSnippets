@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xfileprivate</string>
+	<string>xprivate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fileprivate lazy var &lt;#property#&gt;: &lt;#type#&gt; = {
+	<string>private lazy var &lt;#property#&gt;: &lt;#type#&gt; = {
     &lt;#code#&gt;
         return &lt;#property#&gt;
     }()</string>
