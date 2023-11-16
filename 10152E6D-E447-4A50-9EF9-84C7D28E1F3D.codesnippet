@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[unowned self] in</string>
+	<string>[unowned self]</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>10152E6D-E447-4A50-9EF9-84C7D28E1F3D</string>
 	<key>IDECodeSnippetLanguage</key>

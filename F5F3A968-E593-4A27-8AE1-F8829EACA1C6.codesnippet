@@ -9,20 +9,20 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if (&lt;#code#&gt;) {
-        
-    }</string>
+	<string>if &lt;#condition#&gt; {
+                &lt;#code#&gt;
+            }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>64132A7B-C909-46E9-A30B-A3657E26AB15</string>
+	<string>F5F3A968-E593-4A27-8AE1-F8829EACA1C6</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>🌟 OC if</string>
+	<string>🌟 Swift if</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
