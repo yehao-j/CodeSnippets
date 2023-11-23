@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xnslog</string>
+	<string>xmark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"666--------- %&lt;#code#&gt;", &lt;#code#&gt;);</string>
+	<string>//MARK: - getter or setter</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>CFF1A8E9-EE92-4B78-841B-A644D77F033A</string>
+	<string>784DEE4E-3D4C-4037-98DB-E29E727AE61F</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>🌟 打印</string>
+	<string>🌟 Getter Or Setter</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
